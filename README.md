@@ -10,7 +10,6 @@ for GIMP users and desktop applications. It comes with a complete set of filter 
 operate on images.<br>
 
 ## HOW TO INSTALL HIPSTAGRAM
-<br>
 ### ON LINUX OS:
 In order to install the plug-in of Hipstagram to GIMP, you will need prior to:<br>
 -   install, of course , GIMP application on your pc
