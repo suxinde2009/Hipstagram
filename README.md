@@ -43,3 +43,10 @@ You install separately your chosen desired filters by following these steps:<br>
 - Click the filter
 - A small pop-up window comes showing a preview of your image 
 - Your new image :)
+
+## Resources:
+* Writing a GIMP plug-in:  http://www.gimp.org/docs/plug-in/plug-in.html
+* GIMP Octave plug-in: https://sites.google.com/site/elsamuko/gimp/gimp-octave
+* retro filter vectorized: 
+   http://parsiad.dyndns.org/scripts/format_code.php?noopts=1&file=files/code/retro_filter/retro_filter_vectorized.m&language=matlab
+* How to write GIMP plug-in http://www.linux.ie/articles/gimp-plugin/part1/
