@@ -12,26 +12,25 @@ operate on images.<br>
 ## How to install Hipstagram:
 ### on Linux OS:
 In order to install the plug-in of Hipstagram to GIMP, you will need prior to:<br>
--   install, of course , GIMP application on your pc
--   install Octave program on your pc
--   install and load 'image' libraries for Octave
+-   Install GIMP
+-   Install Octave
+-   Install and load 'image' libraries for Octave<br>
+
 Then you are ready to install our app.<br>
-As we have already stated on introduction, each hipstagram filter comes with two code files. <br>
-With .c files and .m files.<br>
+Every hipstagram filter comes with two code files, with .c file and .m file.<br>
 You install separately your chosen desired filters by following these steps:<br>
--   move your .m files to the path:  ~./gimp-octave
--   accordingly, your .c files can be on whatever path you like
--   go to the path you have the .c files and enter the command on the terminal:
+-   Move your desired filters ( .m files ) to the path:  ~./gimp-octave
+-   Accordingly, your .c files can be on whatever path you like
+-   Go to the path you have the .c files and enter the command on the terminal:
    
    ```sh
    $gimptool-2.0 --install <filtername>.c
    ```
    
--   open GIMP by clicking on the icon
--   check filters on the menu bar:
-Filters -> Ηipstagram -> <your_filter>.
--   open new image -> apply a Hipstagram filter
--   enjoy :)
+-   Open GIMP
+-   Check filters on the menu bar: 'Filters -> Ηipstagram -> <your_filter>'
+-   Open new image -> apply a Hipstagram filter
+-   Enjoy :)
 
 ## How to use Hipstagram:
 
