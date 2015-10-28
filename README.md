@@ -12,13 +12,11 @@ operate on images.<br>
 ## How to use it
 
 - Download the Hipstagram code. <br>
--- For each filter you want to use, you have to have both the files of C code and Octave 
-code.
+  (For each filter you want to use, you have to have both the files of C code and Octave code.)
 - Install your desired filter (see later)
 - Launch GIMP
 - Click "Open New Image"
-- You can apply the filter by going to <br>
-   $ Menu bar->Filters->Hipstagram->name-of-your filter 
+- Apply the filter by clicking: Menu bar->Filters->Hipstagram->name-of-your filter 
 - Click the filter
 - A small pop-up window comes showing a preview of your image 
 - Your new image :)
