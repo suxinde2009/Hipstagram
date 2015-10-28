@@ -22,7 +22,9 @@ You install separately your chosen desired filters by following these steps:<br>
 -   move your .m files to the path:  ~./gimp-octave
 -   accordingly, your .c files can be on whatever path you like
 -   go to the path you have the .c files and enter the command on the terminal:
+   ```sh
    $gimptool-2.0 --install <filtername>.c
+   ```
 -   open GIMP by clicking on the icon
 -   check filters on the menu bar:
 Filters -> Ηipstagram -> <your_filter>.
