@@ -15,14 +15,10 @@ operate on images.<br>
 -- For each filter you want to use, you have to have both the files of C code and Octave 
 code.
 - Install your desired filter (see later)
-- Launch GIMP by tapping its icon from your desktop screen.
-<image>
-- Open New Image
-<image>
-- You can apply the filter by going to Menu bar->Filters->Hipstagram->name-of-your filter 
-<image>
+- Launch GIMP
+- Click "Open New Image"
+- You can apply the filter by going to
+   > Menu bar->Filters->Hipstagram->name-of-your filter 
 - Click the filter
-<image>
-a small pop-up window comes showing a preview of your image
+- A small pop-up window comes showing a preview of your image 
 - Your new image :)
-<image>
