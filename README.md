@@ -18,7 +18,7 @@ code.
 - Launch GIMP
 - Click "Open New Image"
 - You can apply the filter by going to <br>
-   >Menu bar->Filters->Hipstagram->name-of-your filter 
+   > Menu bar->Filters->Hipstagram->name-of-your filter 
 - Click the filter
 - A small pop-up window comes showing a preview of your image 
 - Your new image :)
