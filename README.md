@@ -9,8 +9,8 @@ Hipstagram mainly provides an Instagram-alike tool for image processing along wi
 for GIMP users and desktop applications. It comes with a complete set of filter commands which  <br>
 operate on images.<br>
 
-## HOW TO INSTALL HIPSTAGRAM
-### ON LINUX OS:
+## How to install Hipstagram:
+### on Linux OS:
 In order to install the plug-in of Hipstagram to GIMP, you will need prior to:<br>
 -   install, of course , GIMP application on your pc
 -   install Octave program on your pc
@@ -29,7 +29,7 @@ Filters -> Ηipstagram -> <your_filter>.
 -   open new image -> apply a Hipstagram filter
 -   enjoy :)
 
-## HOW TO USE IT:
+## How to use Hipstagram:
 
 - Download the Hipstagram code. <br>
   (For each filter you want to use, you have to have both the files of C code and Octave code.)
