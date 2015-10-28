@@ -10,7 +10,8 @@ for GIMP users and desktop applications. It comes with a complete set of filter 
 operate on images.<br>
 
 ## HOW TO INSTALL HIPSTAGRAM
-###ON LINUX OS:
+<br>
+### ON LINUX OS:
 In order to install the plug-in of Hipstagram to GIMP, you will need prior to:<br>
 -   install, of course , GIMP application on your pc
 -   install Octave program on your pc
@@ -29,7 +30,7 @@ Filters -> Ηipstagram -> <your_filter>.
 -   open new image -> apply a Hipstagram filter
 -   enjoy :)
 
-## How to use it
+## HOW TO USE IT:
 
 - Download the Hipstagram code. <br>
   (For each filter you want to use, you have to have both the files of C code and Octave code.)
